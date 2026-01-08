@@ -19,5 +19,12 @@ const registers = [
     "first_seen": "2026-01-08T12:08:32.943799",
     "last_active": "2026-01-08T12:08:32.943812",
     "uploads_count": 0
+  },
+  {
+    "id": 4,
+    "ip": "188.64.167.134",
+    "first_seen": "2026-01-08T12:08:34.857482",
+    "last_active": "2026-01-08T12:08:34.857494",
+    "uploads_count": 0
   }
 ];
