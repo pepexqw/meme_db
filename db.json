@@ -68,8 +68,8 @@
     },
     "user_c8091d086a44f69784513ebd678b4cfb": {
       "user_id": "user_c8091d086a44f69784513ebd678b4cfb",
-      "clicks": 1,
-      "score": 1,
+      "clicks": 2,
+      "score": 2,
       "per_click": 1,
       "upgrades": {
         "click_power": {
@@ -94,13 +94,13 @@
           "purchase_count": 0
         }
       },
-      "last_click": "2026-02-01T12:17:03.150183",
+      "last_click": "2026-02-01T12:17:04.207236",
       "session_token": "7jh5Ny6Q_pm8uF5TAb-Tq58d-wI_RtsKLeyyJwpe0b0",
-      "checksum": "f60a870d7f9daa91cb7bd1cbf243adfe527d7e458399709e884986c07e599ba7",
-      "last_activity": "2026-02-01T12:17:03.150185"
+      "checksum": "b9ed54210a02cc1fc5071b23c900452048d73a12eb81c0c06b7e72ee88d2ac12",
+      "last_activity": "2026-02-01T12:17:04.207239"
     }
   },
-  "total_clicks": 1,
+  "total_clicks": 2,
   "game_config": {
     "max_clicks_per_second": 15,
     "max_score": 1000000000,
@@ -109,10 +109,16 @@
     "anti_cheat_threshold": 100,
     "max_upgrades_per_minute": 10
   },
-  "last_update": "2026-02-01T12:17:03.243480",
+  "last_update": "2026-02-01T12:17:04.293346",
   "security_log": [
     {
       "timestamp": "2026-02-01T12:17:03.150197",
+      "event_type": "CLICK_SUCCESS",
+      "ip": "80.251.230.68",
+      "details": "user_id: user_c8091d086a44f69784513ebd678b4cfb, points: 1"
+    },
+    {
+      "timestamp": "2026-02-01T12:17:04.207252",
       "event_type": "CLICK_SUCCESS",
       "ip": "80.251.230.68",
       "details": "user_id: user_c8091d086a44f69784513ebd678b4cfb, points: 1"
