@@ -1,1 +1,121 @@
-
+{
+  "users": {
+    "user_68254c8597ea157f7f6ea191e74fd981": {
+      "user_id": "user_68254c8597ea157f7f6ea191e74fd981",
+      "clicks": 0,
+      "score": 0,
+      "per_click": 1,
+      "upgrades": {
+        "click_power": {
+          "level": 1,
+          "cost": 10,
+          "multiplier": 2,
+          "last_purchase": null,
+          "purchase_count": 0
+        },
+        "auto_clicker": {
+          "level": 0,
+          "cost": 50,
+          "multiplier": 1,
+          "last_purchase": null,
+          "purchase_count": 0
+        },
+        "mega_click": {
+          "level": 0,
+          "cost": 200,
+          "multiplier": 10,
+          "last_purchase": null,
+          "purchase_count": 0
+        }
+      },
+      "last_click": "2026-02-01T12:16:23.234419",
+      "session_token": "OnBCgnI17jhcgoVX183Zdn7eqQ14utk1sJJDwhb-jwI",
+      "checksum": "52274c8cfb58870b5a53a0929ee2a40b6d14cd21f89804e96ee878d4e91e7e47",
+      "last_activity": "2026-02-01T12:16:23.234637"
+    },
+    "user_af3d3975c967872cedd2b1b05df976b3": {
+      "user_id": "user_af3d3975c967872cedd2b1b05df976b3",
+      "clicks": 0,
+      "score": 0,
+      "per_click": 1,
+      "upgrades": {
+        "click_power": {
+          "level": 1,
+          "cost": 10,
+          "multiplier": 2,
+          "last_purchase": null,
+          "purchase_count": 0
+        },
+        "auto_clicker": {
+          "level": 0,
+          "cost": 50,
+          "multiplier": 1,
+          "last_purchase": null,
+          "purchase_count": 0
+        },
+        "mega_click": {
+          "level": 0,
+          "cost": 200,
+          "multiplier": 10,
+          "last_purchase": null,
+          "purchase_count": 0
+        }
+      },
+      "last_click": "2026-02-01T12:16:23.804368",
+      "session_token": "QsmO9Fmfdvc9A4VNLTPqbV9mdEb7u82GzUhnf3mjgJ4",
+      "checksum": "60bc1f363cd7ee43c2662fb41c771b3551a7ad54a50862e6c20352c8b39ae03a",
+      "last_activity": "2026-02-01T12:16:23.804414"
+    },
+    "user_c8091d086a44f69784513ebd678b4cfb": {
+      "user_id": "user_c8091d086a44f69784513ebd678b4cfb",
+      "clicks": 1,
+      "score": 1,
+      "per_click": 1,
+      "upgrades": {
+        "click_power": {
+          "level": 1,
+          "cost": 10,
+          "multiplier": 2,
+          "last_purchase": null,
+          "purchase_count": 0
+        },
+        "auto_clicker": {
+          "level": 0,
+          "cost": 50,
+          "multiplier": 1,
+          "last_purchase": null,
+          "purchase_count": 0
+        },
+        "mega_click": {
+          "level": 0,
+          "cost": 200,
+          "multiplier": 10,
+          "last_purchase": null,
+          "purchase_count": 0
+        }
+      },
+      "last_click": "2026-02-01T12:17:03.150183",
+      "session_token": "7jh5Ny6Q_pm8uF5TAb-Tq58d-wI_RtsKLeyyJwpe0b0",
+      "checksum": "f60a870d7f9daa91cb7bd1cbf243adfe527d7e458399709e884986c07e599ba7",
+      "last_activity": "2026-02-01T12:17:03.150185"
+    }
+  },
+  "total_clicks": 1,
+  "game_config": {
+    "max_clicks_per_second": 15,
+    "max_score": 1000000000,
+    "upgrade_cost_multiplier": 1.5,
+    "min_click_interval": 0.1,
+    "anti_cheat_threshold": 100,
+    "max_upgrades_per_minute": 10
+  },
+  "last_update": "2026-02-01T12:17:03.243480",
+  "security_log": [
+    {
+      "timestamp": "2026-02-01T12:17:03.150197",
+      "event_type": "CLICK_SUCCESS",
+      "ip": "80.251.230.68",
+      "details": "user_id: user_c8091d086a44f69784513ebd678b4cfb, points: 1"
+    }
+  ]
+}
